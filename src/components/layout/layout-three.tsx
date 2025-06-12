@@ -20,12 +20,12 @@ export default function Layout({ children }: React.PropsWithChildren<{}>) {
             content: 'width=device-width, initial-scale=1.0',
           },
         ]}
-        title='ChawkBazar React - React Next E-commerce Template'
+        title='Hemdan E-commerce Store'
         description='Fastest E-commerce template built with React, NextJS, TypeScript, @tanstack/react-query and Tailwind CSS.'
-        canonical='https://chawkbazar.vercel.app/'
+        canonical='https://ecommerce-frontend-hemdan.vercel.app/'
         openGraph={{
-          url: 'https://chawkbazar.vercel.app',
-          title: 'ChawkBazar React - React Next E-commerce Template',
+          url: 'https://ecommerce-frontend-hemdan.vercel.app',
+          title: 'Hemdan E-commerce Store',
           description:
             'Fastest E-commerce template built with React, NextJS, TypeScript, @tanstack/react-query and Tailwind CSS.',
           images: [

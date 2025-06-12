@@ -22,9 +22,9 @@ export default function Layout({ children }: React.PropsWithChildren<{}>) {
         ]}
         title='Hemdan Store'
         description='Fastest E-commerce template built with React, NextJS, TypeScript, @tanstack/react-query and Tailwind CSS.'
-        canonical='https://chawkbazar.vercel.app/'
+        canonical='https://ecommerce-frontend-hemdan.vercel.app/'
         openGraph={{
-          url: 'https://chawkbazar.vercel.app',
+          url: 'https://ecommerce-frontend-hemdan.vercel.app',
           title: 'Hemdan Store',
           description:
             'Fastest E-commerce template built with React, NextJS, TypeScript, @tanstack/react-query and Tailwind CSS.',
