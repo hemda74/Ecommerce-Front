@@ -24,17 +24,17 @@ import { WatchIcon } from "@components/icons/watch-icon";
 import { WomenIcon } from "@components/icons/women-icon";
 
 export const siteSettings = {
-  name: "ChawkBazar",
+  name: "Hemdan Store",
   description:
     "Fastest E-commerce template built with React, NextJS, TypeScript, @tanstack/react-query and Tailwind CSS.",
   author: {
-    name: "OnShop",
+    name: "Ahmed Hemdan",
     // websiteUrl: 'https://redq.io',
     address: "",
   },
   logo: {
     url: "/assets/images/logo.svg",
-    alt: "ChawkBazar",
+    alt: "Hemdan Store",
     href: "/",
     width: 95,
     height: 30,
